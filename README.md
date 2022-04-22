@@ -1,6 +1,8 @@
 # AngularTaskTracker
 Project from [Angular Crash Course](https://youtu.be/3dHNOWTI7H8) Tutorial
 
+[Live Version](https://exquisite-moonbeam-63ba80.netlify.app/)
+
 ##
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.2.
@@ -8,6 +10,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## ❗ TO DO
 - [ ] Task does not persist `onToggleReminder()`
 - [ ] New Task data is not being added
+- [ ] Deploy?
 
 ## Development server
 
@@ -34,9 +37,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 ## Useful Angular Terminal Commands
-`ng serve`
-`ng generate component components/tasks`
-`ng add  @fortawesome/angular-fontawesome`
-`ng generate service services/task`
-`npm i json-server`
-`npm run server`
+- `ng serve`
+- `ng generate component components/tasks`
+- `ng add  @fortawesome/angular-fontawesome`
+- `ng generate service services/task`
+- `npm i json-server`
+- `npm run server`
