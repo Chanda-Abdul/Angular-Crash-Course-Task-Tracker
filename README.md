@@ -1,7 +1,19 @@
 # AngularTaskTracker
+
+## Useful Angular Terminal Commands
+- `npm i -g @angular/cli`
+- `ng new angular-crash-course`
+- `ng serve`
+- `ng generate component components/tasks`
+- `ng add  @fortawesome/angular-fontawesome`
+- `ng generate service services/task`
+- `npm i json-server`
+- `npm run server`
+
+#
 Project from [Angular Crash Course](https://youtu.be/3dHNOWTI7H8) Tutorial
 
-[Live Version](https://exquisite-moonbeam-63ba80.netlify.app/)
+<!-- [Live Version](https://exquisite-moonbeam-63ba80.netlify.app/) -->
 
 ##
 
@@ -36,10 +48,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-## Useful Angular Terminal Commands
-- `ng serve`
-- `ng generate component components/tasks`
-- `ng add  @fortawesome/angular-fontawesome`
-- `ng generate service services/task`
-- `npm i json-server`
-- `npm run server`
+
