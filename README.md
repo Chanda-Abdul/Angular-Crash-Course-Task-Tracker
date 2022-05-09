@@ -2,13 +2,15 @@
 
 ## Useful Angular Terminal Commands
 - `npm i -g @angular/cli`
-- `ng new angular-crash-course`
+- `ng new angular-crash-course` || `ng new notes-frontend --style=scss --routing=true --skip-tests`
+- `npm i bulma --save`
 - `ng serve`
-- `ng generate component components/tasks`
+- `ng generate component components/tasks` || `ng generate component pages/notes-list`
 - `ng add  @fortawesome/angular-fontawesome`
 - `ng generate service services/task`
 - `npm i json-server`
 - `npm run server`
+- `ng generate service demo`
 
 #
 Project from [Angular Crash Course](https://youtu.be/3dHNOWTI7H8) Tutorial
@@ -26,7 +28,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Run `ng serve` for a dev server. 
+
+Navigate to `http://localhost:4200/`. 
+
+The application will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
